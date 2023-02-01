@@ -8,7 +8,7 @@ import { PaisService } from '../../services/pais.service';
   templateUrl: './por-region.component.html',
   styles: [ `
     button {
-      margin-right: 5px;
+      margin: 5px;
     }
   
   `
